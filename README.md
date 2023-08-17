@@ -5,5 +5,5 @@ The development process of the WAHAJ app involved a comprehensive approach to cr
   ![image](https://github.com/Taif0bader/Wahaj/assets/106008150/87257659-9037-472d-ba94-e0b46cbf641b)
 
   </div>
-'''
+
 
